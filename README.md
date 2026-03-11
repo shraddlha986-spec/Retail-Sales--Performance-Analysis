@@ -11,4 +11,4 @@ used Excel function including-
 - Provided strategic recommendations based on findings.
   Tools used: Microsoft Excel
   Created by: Shradha Pandey
-  Date : febuary 2026
+  Date : february 2026
