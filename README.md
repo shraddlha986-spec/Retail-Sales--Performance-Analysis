@@ -9,6 +9,7 @@ used Excel function including-
 - Data Validation
 - Created pivot tables and charts for management insights
 - Provided strategic recommendations based on findings.
+- 
   Tools used: Microsoft Excel
   Created by: Shradha Pandey
   Date : february 2026
